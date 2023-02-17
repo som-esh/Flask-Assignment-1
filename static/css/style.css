@@ -1,0 +1,43 @@
+body,
+html {
+    margin: 0;
+    font-family: sans-serif;
+    height: 100%;
+    background-image: linear-gradient(#5F0A87, #A4508B);
+}
+
+body {
+    min-height: 100%;
+}
+
+.display_container {
+    text-align: center;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#heading {
+    padding-top: 40px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 52px;
+}
+
+#date {
+    color: aliceblue;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+a {
+    padding-top: 32px;
+    display: inline-block;
+}
+
+a:link {
+    color: aliceblue;
+    font-size: 18px;
+}
